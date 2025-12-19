@@ -1,16 +1,19 @@
-## Hi there 👋
+- 🎓 First-Year B.Tech CSE Student
+- 🧠 Building consistency and problem-solving skills
+- 💡 Interested in medical technology & body–tech integration
+- 🌍 Love travelling, exploring new cultures & food
+- 🏎️ Formula One enthusiast
 
-<!--
-**aditya-yadav-75/aditya-yadav-75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🛠️ Skills & Tools**
+- pyhton 
+- Git & GitHub
+- VS Code
+- Figma
+- Canva / PicsArt
+- AppSheets
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📫 Connect With Me**
+📧 : adityayadav26official@gmail.com
+📧 : 2025.adityay@isu.ac.in
+LinkedIn : www.linkedin.com/in/
+adityayadav75official
