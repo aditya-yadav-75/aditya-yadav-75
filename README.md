@@ -5,7 +5,7 @@
 - 🏎️ Formula One enthusiast
 
 **🛠️ Skills & Tools**
-- pyhton 
+- python 
 - Git & GitHub
 - VS Code
 - Figma
